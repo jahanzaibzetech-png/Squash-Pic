@@ -1,0 +1,6 @@
+{
+  "name": "squash — Image Format Converter & Compressor",
+  "description": "Convert, compress, and resize images locally in your browser. Supports WebP, AVIF, PNG, JPEG, GIF, BMP, and SVG with batch ZIP export and before-after quality comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
